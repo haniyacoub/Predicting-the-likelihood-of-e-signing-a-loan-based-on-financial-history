@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 18:41:44 2018
-
-@author: Rony Sulca
+@author: Hani Yacoub
 """
 
 import pandas as pd
